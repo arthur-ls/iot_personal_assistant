@@ -1,1 +1,0 @@
-## Starting iot personal assistant
